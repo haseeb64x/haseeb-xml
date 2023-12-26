@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<foodlist>
+    <fooditem type="America">
+        <name>Beef Steak</name>
+        <cost>$12</cost>
+    </fooditem>
+
+    <fooditem type="Australia">
+        <name>Burger</name>
+        <cost>$10</cost>
+    </fooditem>
+
+    <fooditem type="China">
+        <name>Fries</name>
+        <cost>$2</cost>
+    </fooditem>
+
+    <fooditem type="Itlay">
+        <name>Cold Cofee</name>
+        <cost>$10</cost>
+    </fooditem>
+</foodlist>
